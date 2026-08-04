@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412324001254",
+    "project_id": "pray-iafcj",
+    "storage_bucket": "pray-iafcj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412324001254:android:e344cccd0e1fafa2325227",
+        "android_client_info": {
+          "package_name": "com.prayiafcj.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr6jnZqEWWK7fhT76waxrLQrjuy_04UtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
